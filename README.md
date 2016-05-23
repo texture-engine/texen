@@ -6,11 +6,11 @@ Texture Engine
 
 ## Demo
 
-Outdated & obsolete: [**demo.texen.info**](http://demo.texen.info/)
+Outdated & obsolete: [demo.texen.info](http://demo.texen.info/)
 
 ## Repos
 
-Under: [**texture-engine**](https://github.com/texture-engine) organization
+Under: [texture-engine](https://github.com/texture-engine) organization
 
 ### Packages & dependencies
 
