@@ -1,5 +1,7 @@
 # texen
 
+![work: in progress](https://img.shields.io/badge/work-in%20progress-orange.svg?style=flat)
+
 Texture Engine
 
 ## Demo
@@ -21,7 +23,7 @@ Node modules with local path dependencies (for the time being)
   - texen-scripts
   - texen-utils
 - [**texen-backend**](texen-backend): *[Loopback](http://loopback.io/) API server*
-- [**texen-core**](../texen-core): *[emscriptened](http://kripken.github.io/emscripten-site/) JS core*
+- [**texen-core**](../texen-core): *[Emscriptened](http://kripken.github.io/emscripten-site/) JS core*
 - [**texen-frontend**](texen-frontend): *Angular Material app*
   - texen-angular
   - texen-samples
