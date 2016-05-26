@@ -24,7 +24,8 @@ Node modules with local path dependencies (for the time being)
   - texen-utils
 - [**texen-backend**](../../../texen-backend): *[Loopback](http://loopback.io/) API server*
 - [**texen-core**](../../../texen-core): *[Emscriptened](http://kripken.github.io/emscripten-site/) JS core*
-- [**texen-frontend**](texen-frontend): *Angular Material app*
+  - texen-samples
+- [**texen-frontend**](../../../texen-frontend): *Angular Material app*
   - texen-angular
   - texen-samples
   - texen-scripts
