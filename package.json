@@ -1,0 +1,27 @@
+{
+  "name": "texen",
+  "description": "Texen (Texture Engine) build script",
+  "version": "1.0.0",
+  "author": "Jan Forst <ensonador@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/texture-engine/texen/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-chug": "^0.5.1"
+  },
+  "homepage": "https://github.com/texture-engine/texen#readme",
+  "keywords": [
+    "texen"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/texture-engine/texen.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

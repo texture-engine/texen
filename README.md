@@ -16,7 +16,7 @@ Under: [texture-engine](https://github.com/texture-engine) organization
 
 Node modules with local path dependencies (for the time being)
 
-- [**texen**](../../../texen): *readme repo*
+- [**texen**](../../../texen): *readme and build script repo*
 - [**texen-angular**](../../../texen-angular): *JS Angular directives & services*
   - texen-core
   - texen-samples
@@ -35,3 +35,10 @@ Node modules with local path dependencies (for the time being)
   - texen-core
   - texen-samples
 - [**texen-utils**](../../../texen-utils): *TS formula, tree etc utils*
+
+## Development
+
+```
+npm i
+gulp
+```
